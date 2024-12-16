@@ -6,7 +6,12 @@
     border-radius: 30px;
     background-color: black;
 }
-
+.disclaimer {
+    width: 85%;
+    margin: auto;
+    text-align: center;
+    padding: 50px 0;
+}
 .main-rapo-section-6 h3 {
     font-family: 'SpectrumSans_Md', Helvetica, Arial, Lucida, sans-serif;
     font-size: 20px;
